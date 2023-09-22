@@ -1,4 +1,4 @@
-Project Title: COVID-19 Data  Dashboard
+Project Title: COVID-19 Data Dashboard
 
 Project Description:
 Create an interactive dashboard that visualizes COVID-19 data for a specific region or multiple regions. This project can serve as an educational resource for users to track and understand the impact of the pandemic. You can source COVID-19 data from reputable sources like government health departments, the World Health Organization (WHO), or a data repository.
