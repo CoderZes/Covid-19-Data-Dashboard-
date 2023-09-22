@@ -1,0 +1,13 @@
+COVID-19-Data-Dashboard/
+│
+├── data/                  # Directory for storing COVID-19 data
+│   ├── covid_data.csv     # Sample COVID-19 data (you can update this regularly)
+│
+├── templates/             # HTML templates for the dashboard
+│   ├── index.html         # Main dashboard HTML template
+│
+├── app.py                 # Main application script (e.g., using Dash)
+│
+├── requirements.txt       # List of Python dependencies
+│
+└── README.md              # Project README file
