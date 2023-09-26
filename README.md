@@ -1,4 +1,4 @@
-# Covid-19-Data-Dashboard-
+# Covid-19-Data-  Dashboard-
 This project is a COVID-19 data dashboard that provides visualizations and insights related to the COVID-19 pandemic. Users can interact with the dashboard to explore data for specific regions and date ranges.
 <br>
 ## Getting Started
