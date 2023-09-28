@@ -1,4 +1,4 @@
-# Import necessary libraries liberaries
+# Import necessary libraries
 import dash
 from dash import dcc, html
 import pandas as pd
